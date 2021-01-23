@@ -1,0 +1,86 @@
+
+.col-md-12 .btn{
+    width:170px;
+    height: 170px;
+    border-radius: 50%;
+    top: 240px;
+    right:-65px;
+    position: relative;
+}
+.images{
+    box-shadow:5px 100px 30px #d6d6d6;
+}
+.watch{
+    font-size: 13px;
+    margin-top: 8px;
+}
+.inputtext{
+    font-size: 12px;
+    padding-left: 13px;
+    margin-left: 110px;
+    width: 150px;
+    height: 36px;
+}
+.input1{
+    width:320px;
+    height: 40px;
+    font-size: 15px;
+    padding-left: 17px;
+}
+.animatsiya1{
+    width:170px;
+    height: 170px;
+    border-radius: 50%;
+    top: 240px;
+    right:-65px;
+    animation: animatsiya1 5s infinite;
+}
+@keyframes animatsiya1 {
+    from{
+        transform: scale(12) ;
+    }
+
+}
+
+.animatsiya2{
+    width:170px;
+    height: 170px;
+    border-radius: 50%;
+    top: 240px;
+    right:-65px;
+}
+
+.animatsiya3{
+    width:170px;
+    height: 170px;
+    border-radius: 50%;
+    top: 240px;
+    right:-65px;
+}
+.circle-div{
+    height: 30px;
+    width: 30px;
+    border-radius: 100px;
+    background-color: grey;
+}
+.ln-img{
+    margin-left: 6px;
+    width:15px;
+    height: 15px;
+}
+.apps{
+    padding-top: 150px;
+    font-size: 57px;
+}
+.apps1{
+    margin-top: 300px;
+    font-size: 40px;
+    margin-left: 20px;
+}
+.apps3{
+    padding-top: 170px;
+    font-size: 57px;
+}
+.text12{
+    font-size: 50px ;
+}
